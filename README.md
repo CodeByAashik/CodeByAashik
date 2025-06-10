@@ -1,5 +1,5 @@
 # Aashik Thakur
-## Hey there! I'm Aashik Thakur — a tech enthusiast from Nepal 🇳🇵.<br><br> 🔭 Currently working on: Personal projects <br> 🌱 Learning: Full-stack Development | Spring Boot | Android (Kotlin) <br> 👯 Looking to collaborate on: Innovative web apps, Android projects, or anything cool!<br> 💬 Ask me about: Java, Backend development, Database design, or building websites.<br> 📫 How to reach me: [www.aashikthakur.com.np](https://aashikthakur.com.np) or [Email](mailto:hello@aashikthakur.com.np)<br> ⚡ Fun fact: I love solving tech problems, but I also enjoy a good cricket match 🏏 <br><br>
+## Hey there!👋 I'm Aashik Thakur — a tech enthusiast🧑‍💻 from Nepal 🇳🇵.<br><br> 🔭 Currently working on: Personal projects <br> 🌱 Learning: Full-stack Development | Spring Boot | Android (Kotlin) <br> 👯 Looking to collaborate on: Innovative web apps, Android projects, or anything cool!<br> 💬 Ask me about: Java, Backend development, Database design, or building websites.<br> 📫 How to reach me: [www.aashikthakur.com.np](https://aashikthakur.com.np) or [Email](mailto:hello@aashikthakur.com.np)<br> ⚡ Fun fact: I love solving tech problems, but I also enjoy a good cricket match 🏏 <br><br>
 
 
 # 🌐 Reach Me Online
