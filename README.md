@@ -2,7 +2,7 @@
 ## Hey there! I'm Aashik Thakur — a tech enthusiast from Nepal 🇳🇵.<br><br> 🔭 Currently working on: Personal projects <br> 🌱 Learning: Full-stack Development | Spring Boot | Android (Kotlin) <br> 👯 Looking to collaborate on: Innovative web apps, Android projects, or anything cool!<br> 💬 Ask me about: Java, Backend development, Database design, or building websites.<br> 📫 How to reach me: [www.aashikthakur.com.np](https://aashikthakur.com.np) or [Email](mailto:hello@aashikthakur.com.np)<br> ⚡ Fun fact: I love solving tech problems, but I also enjoy a good cricket match 🏏 <br><br>
 
 
-# 🌐 Find Me Online
+# 🌐 Reach Me Online
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aashiq4u.admin.153) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/totallynotheisenberg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashik-thakur-6568452a5/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Heisenberg_249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aashiqthakur1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@aashikthakur.com.np) 
 
 # 💻 Tech Stack
