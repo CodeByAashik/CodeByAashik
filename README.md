@@ -36,7 +36,6 @@
 
 ### 📊 Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CodeByAashik&theme=dark&hide_border=false&count_private=true" />
   <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=CodeByAashik&theme=dark&hide_border=false" />
 </p>
 
