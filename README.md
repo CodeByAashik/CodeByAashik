@@ -39,10 +39,6 @@
   <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=CodeByAashik&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAashik&theme=dark&hide_border=false&layout=compact" />
-</p>
-
 ---
 
 ### 💬 Random Dev Quote
