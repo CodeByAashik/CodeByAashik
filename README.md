@@ -41,6 +41,14 @@
 
 ---
 
+
+### 📊 Github Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyaashik&theme=radical&hide_border=true&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
 ### 💬 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
