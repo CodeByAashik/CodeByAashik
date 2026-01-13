@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aashik Thakur</h1>
-<p align="center">Full-stack developer in the making — building, breaking, and learning along the way.</p>
+<p align="center">Full-stack developer in the making. Building, Breaking, and Learning along the way.</p>
 
 ---
 
