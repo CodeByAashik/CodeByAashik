@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔨 Working on personal and open-source projects
-- 🌱 Learning: **Spring Boot**, **Android (Kotlin)**, **Full-stack Development**
+- 🌱 Learning: **Spring Boot**, **Full-stack Development**
 - 🤝 Open to collaboration on impactful dev tools, web apps & Android projects
 - 📫 Reach me at: **hello@aashikthakur.com.np**  
 - ⚡ Outside tech: cricket, problem-solving, and figuring out life one bug at a time
