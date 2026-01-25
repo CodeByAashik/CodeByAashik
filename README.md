@@ -37,7 +37,6 @@
 ### 📊 Stats
 <p align="center">
   <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=CodeByAashik&theme=dark&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api?username=codebyaashik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=00CED1&text_color=FFFFFF&hide_title=true&card_width=350" alt="GitHub Stats" />
 
 </p>
 
