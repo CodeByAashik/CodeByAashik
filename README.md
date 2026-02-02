@@ -26,10 +26,10 @@
 ### 🧠 Tech & Tools
 <p align="center">
   
-**Frontend:** React, TailwindCSS, HTML, CSS, JavaScript  
-**Backend:** Java, Spring Boot, PHP  
+**Frontend:** Next.js, React, TailwindCSS, HTML, CSS, JavaScript, TypeScript  
+**Backend:** Java, Spring Boot, PHP 
 **Databases:** MySQL, MS SQL Server  
-**Other:** Git, GitHub, AWS, Cloudflare, Android (Kotlin Learning)
+**Other:** Git, GitHub, Docker, AWS, Cloudflare, Android (Kotlin Learning)
 </p>
 
 ---
