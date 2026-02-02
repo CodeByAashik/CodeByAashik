@@ -27,7 +27,7 @@
 <p align="center">
   
 **Frontend:** Next.js, React, TailwindCSS, HTML, CSS, JavaScript, TypeScript  
-**Backend:** Java, Spring Boot, PHP 
+**Backend:** Java, Spring Boot, PHP   
 **Databases:** MySQL, MS SQL Server  
 **Other:** Git, GitHub, Docker, AWS, Cloudflare, Android (Kotlin Learning)
 </p>
