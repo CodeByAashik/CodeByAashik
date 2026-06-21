@@ -36,8 +36,7 @@
 
 ### 📊 Stats
 <p align="center">
-  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=CodeByAashik&theme=dark&hide_border=false" />
-
+  <img width="48%" src="https://streak-stats.demolab.com/?user=CodeByAashik&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
